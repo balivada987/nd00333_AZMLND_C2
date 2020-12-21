@@ -1,24 +1,14 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
 Operationalizing Machine Learning
 
+Overview:
+The data used in project  is related to direct marketing campaigns of a banking institution. The primary objective is to this project is to predict whether a customer subscribe a term deposit or not in Micosoft Azure 
+The project is all about creating a optimized model from scratch  by using Azure ML and deploy it as a webservice so that it can be consumed . 
+It can be  done by two methods 
+1.	Using Azure ML Studio 
+2. Using Pipelines
 
 
-*TODO:* Write an overview to your project.
-The objective of this project is to deploy a machine learning solution in Azure ML platform using Python SDK and 
-Designer Studio . The deployed endpoint is later consumed as a webservice.
-
-## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
-Diagram added in Word file.
-## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
-
-## Screen Recording
-
-https://youtu.be/-yH1SSQmINk
-
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+The architectural diagram, steps and screen recording is available in the Udacity Project Documentation file attached
+All the screenshots and video link is available in the Udacity Project Documentation
