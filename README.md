@@ -11,4 +11,4 @@ It can be  done by two methods
 
 
 The architectural diagram, steps and screen recording is available in the Udacity Project Documentation file attached
-All the screenshots and video link is available in the Udacity Project Documentation
+
