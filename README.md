@@ -14,12 +14,12 @@ The architectural diagram, steps and screen recording is available in the Udacit
 https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/Udacity%20Project%202%20Documentation.docx
 
 
-Architecture Diagram:
+# Architecture Diagram:
 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/ArchitectureDia%201.png)
 
 
-Process Flow:
+# Process Flow:
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/ProceeFlow%202.PNG)
 
 SP Authentication:
@@ -30,7 +30,7 @@ SP Authentication:
 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/SP%20Authentication%204.png)
 
-#Creating Auto ML model and Executing Auto ML Model
+# Creating Auto ML model and Executing Auto ML Model
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML1.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoMl2.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML3.png)
@@ -41,7 +41,16 @@ SP Authentication:
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML6.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML7.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML8.png)
+# Testing the webservice endpoint
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML9.png)
+
+# Python SDK implementation
+Python SDK Implementation:
+After creating new notebook and connecting with the compute instance . Pipelines are built to implement a AutoML model on the same dataset.  Pipeline has been configured for AutoML and scoring
+After submitting the pipeline the following screen shot is captured displaying the  status of pipeline in SDK and  designer studio
+Pipeline Section in AzureML Studio:
+
+
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML10.png)
 
 
