@@ -13,3 +13,7 @@ It can be  done by two methods
 The architectural diagram, steps and screen recording is available in the Udacity Project Documentation file attached in  this link: 
 https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/Udacity%20Project%202%20Documentation.docx
 
+
+
+
+![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/ArchitectureDia%201.png)
