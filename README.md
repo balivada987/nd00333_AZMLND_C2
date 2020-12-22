@@ -14,14 +14,15 @@ The architectural diagram, steps and screen recording is available in the Udacit
 https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/Udacity%20Project%202%20Documentation.docx
 
 
-
+Architecture Diagram:
 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/ArchitectureDia%201.png)
 
 
-
+Process Flow:
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/ProceeFlow%202.PNG)
 
+SP Authentication:
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/SP%20Authentication.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/SP%20Authentication%202.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/SP%20Authentication%203.png)
@@ -29,6 +30,7 @@ https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/Udacity%20Project%2
 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/SP%20Authentication%204.png)
 
+Creating Auto ML model
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML1.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoMl2.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML3.png)
