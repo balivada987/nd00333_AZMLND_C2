@@ -47,5 +47,4 @@ https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/Udacity%20Project%2
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML16.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML17.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML18.png)
-![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML19.png)
-![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML10.png)
+
