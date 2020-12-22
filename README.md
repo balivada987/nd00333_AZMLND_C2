@@ -30,11 +30,13 @@ SP Authentication:
 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/SP%20Authentication%204.png)
 
-Creating Auto ML model
+#Creating Auto ML model and Executing Auto ML Model
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML1.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoMl2.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML3.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML4.png)
+
+ Best model selected and deployed Deploying Auto ML model as Webservice 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML5.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML6.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML7.png)
