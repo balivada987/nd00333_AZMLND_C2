@@ -1,6 +1,6 @@
 
 
-Operationalizing Machine Learning
+# Operationalizing Machine Learning
 
 Overview:
 The data used in project  is related to direct marketing campaigns of a banking institution. The primary objective is to this project is to predict whether a customer subscribe a term deposit or not in Micosoft Azure 
@@ -66,11 +66,11 @@ Pipeline Section in AzureML Studio:
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML13.png)
 # Pipeline Runs are completed and their screenshot
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML14.png)
-# Pipeline Endpoints are created and displaying in the screenshot
+# Pipeline Endpoints are Displayed  in the screenshot
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML15.png)
 # Run Details widget screenshot
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML16.png)
-# Pipeline is screduled at regular intervals using scheduler command 
+# Pipeline is screduled at regular intervals using schedule command 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML17.png)
 # Screenshot of all the Pipeline Runs since pipeline is scheduled at a frequency of  2 minutes
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML18.png)
