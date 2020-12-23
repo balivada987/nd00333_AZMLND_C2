@@ -33,15 +33,21 @@ SP Authentication:
 # Creating Auto ML model and Executing Auto ML Model
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML1.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoMl2.png)
+# Auto ML model execution completed 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML3.png)
+# Voting Ensemble model  is the best model 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML4.png)
 
- Best model selected and deployed Deploying Auto ML model as Webservice 
+# The best model is deployed as webservice and application insights are enabled
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML5.png)
+# Executed logs.py file  to view the logs 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML6.png)
+# Swagger is running on locahost:9000
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML7.png)
+# Endpoint has been created in the link shown in screenshot and tested through posting json type of input
+
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML8.png)
-# Testing the webservice endpoint
+# Creating a benchmark  using bash benchmark.sh  and Testing the endpoint after benchmark creation
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML9.png)
 
 # Python SDK implementation
@@ -53,13 +59,29 @@ Pipeline Section in AzureML Studio:
 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML10.png)
 
-
+# Pipeline is created and running on below screenshot
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML11.png)
+#
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoMl12.png)
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML13.png)
+# Pipeline Runs are completed and their screenshot
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML14.png)
+# Pipeline Endpoints are created and displaying in the screenshot
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML15.png)
+# Run Details widget screenshot
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML16.png)
+# Pipeline is screduled at regular intervals using scheduler command 
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML17.png)
+# Screenshot of all the Pipeline Runs since pipeline is scheduled at a frequency of  2 minutes
 ![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AutoML18.png)
+
+
+# Screencast Video LInk
+
+https://www.youtube.com/embed/-yH1SSQmINk?feature=oembed
+
+# Areas of Improvement :
+1.Data Imbalance has been detected as displayed in screenshot . Undersampling and Oversampling can be used to improve the distribution of data 
+2. During sampling stratified sampling can be used 
+![alt text](https://github.com/balivada987/nd00333_AZMLND_C2/blob/master/AreasofImp.png)
 
